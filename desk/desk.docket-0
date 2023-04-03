@@ -1,0 +1,10 @@
+:~
+  title+'Herd'
+  info+'Dependency management helper threads'
+  color+0xaa.aaaa
+  version+[0 0 1]
+  website+'https://github.com/midsum-salrux/herd'
+  license+'MIT'
+  base+'herd'
+  site+/app/herd
+==
